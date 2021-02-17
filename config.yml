@@ -1,0 +1,12 @@
+title: How to create PowerNukkit plugins
+description: >-
+  So, you want to create a new PowerNukkit plugin. Awesome! It’s pretty easy to
+  start, just follow this tutorial and guidelines and you will be good to go.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
